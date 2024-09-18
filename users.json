@@ -1,0 +1,50 @@
+[
+  {
+    "firstName": "VASU",
+    "lastName": "RAWAT",
+    "email": "rawatvasu03@ggmail.com",
+    "password": "Vasu@123"
+  },
+  {
+    "firstName": "Prince Singh",
+    "lastName": "Dogra",
+    "email": "princesinghdogra@gmail.com",
+    "password": "Prince1234@"
+  },
+  {
+    "firstName": "Vaibhav",
+    "lastName": "Kumar",
+    "email": "princesinghdogra@gmail.com",
+    "password": "Prince1234@"
+  },
+  {
+    "firstName": "vasu ",
+    "lastName": "rawat",
+    "email": "rawatvasu03@gmail.com",
+    "password": "Vasu@123"
+  },
+  {
+    "firstName": "ayush ",
+    "lastName": "rathore",
+    "email": "abc123@gmail.com",
+    "password": "Prince1234@"
+  },
+  {
+    "firstName": "Bhaskar",
+    "lastName": "Gupta",
+    "email": "m.bhaskar.b2@gmail.com",
+    "password": "1234567890"
+  },
+  {
+    "firstName": "bhaskar",
+    "lastName": " sharma",
+    "email": "Bhaskar.b@gmail.com",
+    "password": "njbhggvbhfd"
+  },
+  {
+    "firstName": "Tanya",
+    "lastName": "mam",
+    "email": "Kuchbhii@gmail.com",
+    "password": "123456789"
+  }
+]
